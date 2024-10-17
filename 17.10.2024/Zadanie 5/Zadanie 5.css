@@ -1,0 +1,19 @@
+div {
+    width: 100%;
+    height: 700px;
+    margin-bottom: 20px;
+    background-image: url(Co-warto-zobaczyc-w-gorach-swietokorzyskich.jpeg);
+    background-repeat: no-repeat;
+}
+
+.left-top {
+    background-position: left top;
+}
+
+.center {
+    background-position: center;
+}
+
+.right-bottom {
+    background-position: right bottom;
+}

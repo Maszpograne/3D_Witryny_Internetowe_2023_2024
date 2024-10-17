@@ -1,0 +1,18 @@
+body {
+    height: 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.header {
+    background: url(Co-warto-zobaczyc-w-gorach-swietokorzyskich.jpeg) center/cover no-repeat;
+}
+
+.main {
+    background: url(Co-warto-zobaczyc-w-gorach-swietokorzyskich.jpeg) center/cover no-repeat fixed;
+}
+
+.footer {
+    background: url(Co-warto-zobaczyc-w-gorach-swietokorzyskich.jpeg) center/cover no-repeat;
+}

@@ -1,0 +1,17 @@
+div {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.normal {
+    background-color: blue;
+    background-image: url(Co-warto-zobaczyc-w-gorach-swietokorzyskich.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.short {
+    background: blue url(Co-warto-zobaczyc-w-gorach-swietokorzyskich.jpeg) center/contain no-repeat;
+}
